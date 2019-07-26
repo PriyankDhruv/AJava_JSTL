@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : Product.xml
+    Created on : 24 April, 2019, 12:34 PM
+    Author     : PRIYANK DHRUV
+    Description:
+        Purpose of the document follows.
+-->
+
+<?xml-stylesheet type="text/xsl" href="Product.xsl" ?>
+<products>
+	<product>
+		<productname>Shoes</productname>
+		<price>280</price>
+	</product>
+	<product>
+		<productname>Sandals</productname>
+		<price>300</price>
+	</product>	
+	<product>
+		<productname>Watch</productname>
+		<price>350</price>
+	</product>
+	<product>
+		<productname>Lipstick</productname>
+		<price>250</price>
+	</product>
+</products>	
